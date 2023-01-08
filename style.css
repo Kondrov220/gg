@@ -1,8 +1,47 @@
 .mum {
-    color: rgb(97, 97, 97);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
 body {
     background-color: black;
+}
+
+
+.mumu {
+    display: flex;
+    justify-content: end;
+
+}
+
+.pop {
+    border: 2px solid yellow;
+    width: 500px;
+
+}
+
+
+.popo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.mumum {
+    width: 200px;
+    border: 2px solid rgb(0, 0, 0);
+    height: 200px;
+}
+
+.popop {
+    color: rgb(255, 255, 255);
+}
+
+
+.vv {
+    color: rgb(255, 255, 255);
 }
